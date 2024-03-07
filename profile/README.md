@@ -7,7 +7,6 @@
   </a>
   <p align="center">
   WgpSec 狼组安全团队
-  <br>www.wgpsec.org
-  <br>Building a Cybersecurity Utopia
+  <br>Building a Cybersecurity Utopia<br>www.wgpsec.org
   </p>
 </p>
