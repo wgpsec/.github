@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome To WgpSec 👋
 
 <p align="center">
   <br>
@@ -10,3 +10,6 @@
   <br>Building a Cybersecurity Utopia<br>www.wgpsec.org
   </p>
 </p>
+
+- 💞️ 团队微信公众号：“WgpSec狼组安全团队”，欢迎各位师傅进行合作
+- 👋 团队联系邮箱: admin@wgpsec.org
