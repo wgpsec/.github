@@ -7,8 +7,6 @@
   </a>
   <p align="center">
   WgpSec 狼组安全团队
-  <br>Building a Cybersecurity Utopia<br>www.wgpsec.org
+  <br>Building a Cybersecurity Utopia<br>www.wgpsec.org<br>https://t.me/wgpsec
   </p>
 </p>
-
-- 👋 团队联系邮箱: admin@wgpsec.org
